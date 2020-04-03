@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>纸上得来终觉浅,绝知此事要躬行</title>
+  
+  <subtitle>撸起袖子加油干</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-04-02T07:04:25.214Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>ALEGANT</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>World!!!</title>
+    <link href="http://yoursite.com/2020/04/02/World/"/>
+    <id>http://yoursite.com/2020/04/02/World/</id>
+    <published>2020-04-02T07:04:25.000Z</published>
+    <updated>2020-04-02T07:04:25.214Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
