@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-07T18:14:29.930Z</updated>
+  <updated>2020-04-08T08:35:32.103Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/04/08/HelloWorld/"/>
     <id>http://yoursite.com/2020/04/08/HelloWorld/</id>
     <published>2020-04-07T17:50:00.000Z</published>
-    <updated>2020-04-07T18:14:29.930Z</updated>
+    <updated>2020-04-08T08:35:32.103Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><h2 id="千里之行始于足下-前言"><a href="#千里之行始于足下-前言" class="headerlink" title="千里之行始于足下  - 前言"></a>千里之行始于足下  - 前言</h2><h3 id="开博客目的"><a href="#开博客目的" class="headerlink" title="开博客目的"></a>开博客目的</h3><p>俗话说的好:万事开头难。搭建这个博客就是迈出第一步，在我的个人意愿中,我一直是把自己定位成一个纯粹的Java后端开发工程师,对于页面的编写或者修改常常因为这个定位而推诿逃避页面的编写，直到某一天的失眠让我重新评价审视自己的定位和能力，重新认识并定位自己，认识到自己的主观意愿和我的客观行动并没有达成一致，也就是俗称的’思想的巨人,行动的矮子’。已经毕业了半年了，从学生思维跳出来，转到社会人的角度，既然发现了问题，那当然第一个反应是评判后果并修改啦。<br>自身的问题:</p><table><thead><tr><th>评价维度</th><th>描述</th></tr></thead><tbody><tr><td>优先级</td><td>最高级,一个连自己都不重视的人怎么可能去做好别的事</td></tr><tr><td>影响程度</td><td>长期不动手，导致动手能力不足，加上视线的拓展变得眼高手低，不学无术</td></tr><tr><td>修正难度</td><td>养成习惯的级别，要三个月才能养成好一个习惯</td></tr></tbody></table><p>简单评估下问题和影响，这些影响和后果大多建立在经验所得，但是重要的是这个问题的解决方案的落实，就像我常常挂在嘴边的一句话:”不要听说了什么，要看做了什么”。这也是我开始写博客的一个原因，一是落实自己的计划并做出点什么成果出来，其次是修正并发现自身的问题，最后也是给自己一个交待，虽说看起来有点逼着自己的感觉，就像立flag一样，但是啊，人不逼一下自己怎么知道自己行不行呢。</p><hr><h3 id="个人想法"><a href="#个人想法" class="headerlink" title="个人想法"></a>个人想法</h3><p>既然是开张第一天，那么就多碎碎念几句，做事先做人，这里可以当成是一个自我介绍，也可以当作是我的个人的世界观的体现。<br>世界观决定方法论，方法论体现世界观。所以我很崇拜那些有思想的人，更崇拜那些能在自己的领域或者岗位上有所作为的人，<br>这些有所作为的人他们做到了善，而且他们用实际行动证明了自己的能力，并将自己的能力这一抽象概念转换成了客观的存在。<br>这里就关系到一个问题，什么叫好的程序员。以下是一些我的个人观点</p><h4 id="从专业素养的角度来看："><a href="#从专业素养的角度来看：" class="headerlink" title="从专业素养的角度来看："></a>从专业素养的角度来看：</h4><p>一个程序员的评判标准应当是他在程序设计过程中所设计的代码的优越度而不是程序本身，<br><br>如果我们把一个程序的用户体验作为一个程序员的评判标准，这是很荒唐的，因为这是程序设计本身的问题，或者说这是用了评判产品的标准来评判了一个程序员。<br></p><h4 id="其次从传承的角度来看"><a href="#其次从传承的角度来看" class="headerlink" title="其次从传承的角度来看:"></a>其次从传承的角度来看:</h4><p>在程序员之间，好的代码思维跟可维护性强的代码是让程序得以维护的一个重要因素，<br><br>同时这也使得程序员之间的思想传承得到了保障，站在一个崇高的角度看，这是有限的程序员生涯中给无限的编程史留下了自己的一笔。</p><h4 id="从社会责任的角度来看"><a href="#从社会责任的角度来看" class="headerlink" title="从社会责任的角度来看:"></a>从社会责任的角度来看:</h4><p>如果一个程序员拥有了绝佳的技术却依仗这自己的技术胡作非为，这显然不是一个好的程序员所拥有的品质，我认为当技术达到相当程度后应该是应当静下心来，要么为编程文化做出自己的贡献，让编程的文明得以传承；要么在自己的岗位上发光发热，成为国家或者社会中无法被取代的一员；也可以选择成为文明探索的先锋，去突破当前的学术难题。</p><hr><h3 id="小小的规划"><a href="#小小的规划" class="headerlink" title="小小的规划"></a>小小的规划</h3><p>今天(2020年4月8日),算是这个博客正式营业的第一天,在这里先给自己定下一些目标和给自己一些约束，为后续的写文立下一些规范和保存一份习惯。</p><h4 id="给自己的约束"><a href="#给自己的约束" class="headerlink" title="给自己的约束"></a>给自己的约束</h4><h5 id="博客的更新频率"><a href="#博客的更新频率" class="headerlink" title="博客的更新频率"></a>博客的更新频率</h5><p>在我大学的时候其实就已经想经营一个技术博客，但是因为一些时间原因和个人原因，这个想法一直没有被落实，这也是一个小小的遗憾。但是现在一方面是时间比较充裕，二是所学技能需要沉淀，因此在开始的前几天会更新比较多的内容————补上大学时的坑和总结工作以来的技能。<br><br>目前给自己的一个硬性要求：在前一周日更补上以前的坑，然后在一周后周更，找到工作后开始月更。</p><h5 id="文档规范-期望"><a href="#文档规范-期望" class="headerlink" title="文档规范(期望)"></a>文档规范(期望)</h5><p>一、文档编写的时候要画思维导图<br>二、表格意识，加强对比<br>三、尽可能用容易理解的话来讲代码<br>四、不要写水文，尽可能多干货，结合自己地理解<br>五、写文内容以技术为主但不承诺只写技术相关内容<br>六、注重版权意识，引文或灵感来源要尊重原作者<br>七、下期预告</p><p>背景图片来自百度<a href="https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=hello%20World&step_word=&hs=0&pn=0&spn=0&di=220&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=1905138384%2C486113505&os=2339458242%2C3019850321&simid=3382509924%2C256788667&adpicid=0&lpn=0&ln=1736&fr=&fmq=1586281832450_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2F2209be24c1a5c0684a4b0771d04ce39b61e9db1a.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bdn9tgu5_z%26e3Bv54AzdH3FfAzdH3Fijss5%2Bo56s1&gsm=1&rpstart=0&rpnum=0&islist=&querylist=&force=undefined" target="_blank" rel="noopener">helloWorld</a></p>]]></content>
     
@@ -35,6 +35,10 @@
     </summary>
     
     
+    
+      <category term="helloWorld" scheme="http://yoursite.com/tags/helloWorld/"/>
+    
+      <category term="简介" scheme="http://yoursite.com/tags/%E7%AE%80%E4%BB%8B/"/>
     
   </entry>
   
